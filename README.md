@@ -87,17 +87,17 @@ Quick Links ⚡ :
 ### Java Strings [👆](#sub-domains--problems-solutions-in-the-java-domain)
 | Problem | Solution Link | Difficulty |
 |---------|---------------|------------|
-| [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaStringsIntroduction.java) | Easy |
-| [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaSubstring.java) | Easy |
-| [Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaSubstringComparison.java) | Easy |
-| [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaStringReverse.java) | Easy |
-| [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaAnagrams.java) | Easy |
-| [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaStringTokens.java) | Easy |
-| [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/PatternSyntaxChecker.java) | Easy |
+| [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [Solution](https://github.com/upadrastaharshavardhan/hackerrank-java/blob/master/src/JavaStringsIntroduction.java) | Easy |
+| [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem) | [Solution](https://github.com/upadrastaharshavardhan/hackerrank-java/blob/master/src/JavaSubstring.java) | Easy |
+| [Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem) | [Solution](https://github.com/upadrastaharshavardhan/hackerrank-java/blob/master/src/JavaSubstringComparison.java) | Easy |
+| [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem) | [Solution](https://github.com/upadrastaharshavardhan/hackerrank-java/blob/master/src/JavaStringReverse.java) | Easy |
+| [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem) | [Solution](https://github.com/upadrastaharshavardhan/hackerrank-java/blob/master/src/JavaAnagrams.java) | Easy |
+| [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem) | [Solution](https://github.com/upadrastaharshavardhan/hackerrank-java/blob/master/src/JavaStringTokens.java) | Easy |
+| [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem) | [Solution](https://github.com/upadrastaharshavardhan/hackerrank-java/blob/master/src/PatternSyntaxChecker.java) | Easy |
 | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaRegex.java) | Easy |
-| [Java Regex II - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaRegexIIDuplicateWords.java) | Medium |
-| [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/ValidUsernameRegularExpression.java) | Easy |
-| [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/TagContentExtractor.java) | Medium |
+| [Java Regex II - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem) | [Solution](https://github.com/upadrastaharshavardhan/hackerrank-java/blob/master/src/JavaRegexIIDuplicateWords.java) | Medium |
+| [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem) | [Solution](https://github.com/upadrastaharshavardhan/hackerrank-java/blob/master/src/ValidUsernameRegularExpression.java) | Easy |
+| [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) | [Solution](https://github.com/upadrastaharshavardhan/hackerrank-java/blob/master/src/TagContentExtractor.java) | Medium |
 
 
 ### Java Object Oriented Programming [👆](#sub-domains--problems-solutions-in-the-java-domain)
