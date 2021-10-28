@@ -1,6 +1,6 @@
 # 0569-hacker_rank
 # Java 
-# ![profile](https://github.com/upadrastaharshavardhan/0569-hacker_rank)
+# [profile](https://github.com/upadrastaharshavardhan)
 
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-68/68-1abc9c.svg)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/upadrastaharshavardhan/competitive-programming)
